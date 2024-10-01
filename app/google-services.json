@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205742792209",
+    "project_id": "social-ifpb-yuri",
+    "storage_bucket": "social-ifpb-yuri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205742792209:android:189933d7acf893adb6dbb0",
+        "android_client_info": {
+          "package_name": "com.example.navegacao1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb5C1ckPAcDH6897F_5Yq8twxPrkq3GEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
